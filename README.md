@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información del estudiante
 
 Emmanuel Cid Pacheco \[23212187]; l23212187@tectijuana.edu.mx
 
